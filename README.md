@@ -1,7 +1,7 @@
 # Bryan Johnson's GWU Module 3 Python Assignment READ ME File
 
 ## The files for this assignment can be found at the following repo:
-https://github.com/bryanpijohnson/GWU-DS-course-files/tree/main/Module%203%20-%20Python
+https://github.com/bryanpijohnson/python-challenge
 
 ## Within the repo link, you will find the following folders and files to be reviewed and graded:
 
